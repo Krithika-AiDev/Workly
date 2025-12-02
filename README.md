@@ -76,7 +76,6 @@ Structured CSV Entry:
 
 Weekly Summary Example:
 
-
 Total Hours Logged: 15
 
 Skills Learned: Async programming, workflow automation, debugging
@@ -109,10 +108,3 @@ Highlights: Consistent daily logging, improvement in automation tasks
 
        4. Summaries provide actionable insights for personal reflection on skill growth.
 
-### If I had more time, this is what I'd do
-
-- Integrate WhatsApp via n8n automation for a fully conversational daily check-in.
-
-- Build a dashboard to visualize skill growth trends over weeks and months.
-
-- Incorporate AI-powered suggestions for productivity improvement or learning next steps.
